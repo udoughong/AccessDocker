@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NakLppR90HpM5awHzepKU1WNmqfDtegtRNx5wAfBpJ+LzAH7Z58y5tDj7uWhXXd76RP3iJEj/Vtml0/4QbbOww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\洪有德\\Source\\Repos\\udoughong\\AccessDocker\\Solution4AccessDocker\\WebApp4AspNetCoreMVC\\WebApp4AspNetCoreMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\洪有德\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.9.10\\microsoft.visualstudio.azure.containers.tools.targets.1.9.10.nupkg.sha512"
+  ],
+  "logs": []
+}

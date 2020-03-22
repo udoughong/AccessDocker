@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  webapp4aspnetframeworkwebform:
+    image: ${DOCKER_REGISTRY-}webapp4aspnetframeworkwebform
+    build:
+      context: .\WebApp4AspNetFrameworkWebForm
+      dockerfile: Dockerfile

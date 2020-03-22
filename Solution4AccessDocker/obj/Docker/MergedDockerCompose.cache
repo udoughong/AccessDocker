@@ -1,0 +1,9 @@
+services:
+  webapp4aspnetframeworkwebform:
+    build:
+      context: C:\Users\洪有德\Source\Repos\udoughong\AccessDocker\Solution4AccessDocker\WebApp4AspNetFrameworkWebForm
+      dockerfile: Dockerfile
+    image: webapp4aspnetframeworkwebform
+    ports:
+    - target: 80
+version: '3.4'
